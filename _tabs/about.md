@@ -21,19 +21,13 @@ order: 4
 | 公司名称：上海行想信息科技有限公司 <br> 时间：2016.03-2019.4<br>职位：软件工程师<br>工作内容：Rails全栈开发，微信小程序开发，Ios移动端开发  |
 | 公司名称：成都澳昇能源科技有限责任公司 <br> 时间：2019.4-2023.12<br>职位：高级软件工程师<br>工作内容：Rails全栈开发  |
 
-| 项目经验  |   |
-| :--- | ----------- |
-
+| 项目经验 |
+| :--- |
 | 名称：OSW Energy <br> 简介：太阳能设备销售、仓管系统<br>项目职责:web/IOS/Android API 开发<br>  项目官网：<a href="https://osw.energy/" target="_blank">https://osw.energy/</a><br>时间：2022年 |
-
 | 名称：Discover Energy <br> 简介：澳洲优质的电力零售系统<br>项目职责:web 全栈开发，IOS/Android API 开发<br>  项目官网：<a href="https://www.discoverenergy.com.au" target="_blank">https://www.discoverenergy.com.au</a><br>时间：2019年 |
-
 | 名称：UNT数字货币钱包 <br> 简介：UNTWallet是区块链技术打造的全球智能钱包<br>项目职责:web 全栈开发，iOS 移动端开发<br>  项目官网：<a href="https://untwallet.com" target="_blank">https://untwallet.com</a><br>时间：2018年 |
-
 | 名称：鲸鱼财经 <br> 简介：鲸鱼财经是东南亚区块链咨询平台<br>项目职责:web 全栈开发，iOS 移动端开发<br>  项目官网：<a href="http://www.jingyubc.com" target="_blank">http://www.jingyubc.com</a><br>时间：2017年 |
-
 | 名称：牛牛留学 <br> 简介：出国留学信息提供中介平台<br>项目职责:web 全栈开发，微信小程序开发<br>  项目官网：<a href="http://www.niuniuway.com" target="_blank">http://www.niuniuway.com</a><br>时间：2017年 |
-
 | 名称：买卖吧 <br> 简介：新加坡闲置商品交易信息平台<br>项目职责：web 全栈开发，微信小程序开发，移动端开发<br>  项目官网：<a href="http://www.mymart.com" target="_blank">http://www.mymart.com</a><br>时间：2016年 |
 
 
