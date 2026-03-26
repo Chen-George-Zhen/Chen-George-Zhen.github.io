@@ -1,9 +1,3 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 诚恳热情，喜欢学习、研究技术！，自学能力强！开朗又不失严谨，具有良好的沟通协作能力，喜欢和领导、同事和睦相处，相互帮助，共同进步。
 
 | 个人信息 |
@@ -12,17 +6,21 @@ order: 4
 | 生日: 1993年04月25日  |
 | 性别: 男  |
 | 学历: 西华大学 软件工程 本科  |
-| 技能: <br>  1、ruby on rails 全栈开发(ruby rails postgresql redis mysql......)<br>  2、linux 服务器部署维护(shell nginx docker...)<br>  3、web 前端开发(javascript css3 html5 jquery vue framework7......)<br>  4、微信小程序开发<br> 5、移动端开发，ios(swift)开发，cordova、react native、 weex 也有尝试过  |
+| 技能: <br>  1、ruby on rails 全栈开发(ruby rails postgresql redis mysql......)<br>  2、linux 服务器部署维护(shell nginx docker...)<br>  3、web 前端开发(javascript css3 html5 jquery vue framework7......)<br>  4、微信小程序开发<br> 5、移动端开发，ios(swift)开发，cordova、react native、 weex 也有尝试过<br> 6、熟练使用 Claude Code、 Open Code等AI编程工具  |
 
 | 工作经验 |
 | :--- |
-| 公司名称：成都澳昇能源科技有限责任公司 <br> 时间：2019.4-2024.02<br>职位：高级软件工程师<br>工作内容：Rails全栈开发  |
+| 独立开发者 <br> 时间：2024.04-至今<br>职位：全栈工程师<br>工作内容：开发手机自动化脚本程序，音乐自动生成程序，实用工具桌面程序 |
+| 公司名称：成都澳昇能源科技有限责任公司 <br> 时间：2019.4-2024.04<br>职位：高级软件工程师<br>工作内容：Rails全栈开发  |
 | 公司名称：上海行想信息科技有限公司 <br> 时间：2016.03-2019.4<br>职位：软件工程师<br>工作内容：Rails全栈开发，微信小程序开发，Ios移动端开发  |
 | 公司名称：华西公用医疗信息服务有限公司 <br> 时间：2015.2-2016.2<br>职位：软件运维工程师<br>工作内容：华西医院医疗系统日常维护、系统功能二次开发  |
 
 | 项目经验 |
 | :--- |
-| 名称：OSW Energy <br> 简介：太阳能设备销售、仓管系统<br>项目职责:web/IOS/Android API 开发<br>  项目官网：<a href="https://osw.energy/" target="_blank">https://osw.energy/</a><br>时间：2022年 |
+| 名称：大麦App自动抢票程序 <br> 简介：通过Python脚本程序控制手机，自动化定时抢票<br>项目职责: 全栈开发<br>时间：2024年 |
+| 名称：针对APP自动化刷金币提现程序 <br> 简介：通过Python脚本程序控制手机，自动点击、刷视频等获取金币，然后提现<br>项目职责: 全栈开发<br>时间：2024年 |
+| 名称：音乐自动生成程序 <br> 简介：通过ruby程序自动化生成拥有旋律和和声的纯音乐<br>项目职责: 全栈开发<br>时间：2024年 |
+| 名称：OSW Energy <br> 简介：太阳能设备销售、仓管系统<br>项目职责:web/IOS/Android API 开发，第三方接口对接<br>  项目官网：<a href="https://osw.energy/" target="_blank">https://osw.energy/</a><br>时间：2022年 |
 | 名称：Discover Energy <br> 简介：澳洲优质的电力零售系统<br>项目职责:web 全栈开发，IOS/Android API 开发<br>  项目官网：<a href="https://www.discoverenergy.com.au" target="_blank">https://www.discoverenergy.com.au</a><br>时间：2019年 |
 | 名称：UNT数字货币钱包 <br> 简介：UNTWallet是区块链技术打造的全球智能钱包<br>项目职责:web 全栈开发，iOS 移动端开发<br> 时间：2018年 |
 | 名称：鲸鱼财经 <br> 简介：鲸鱼财经是东南亚区块链咨询平台<br>项目职责:web 全栈开发，iOS 移动端开发<br>  时间：2017年 |
